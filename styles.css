@@ -1,0 +1,21 @@
+.game-container{
+    text-align: center;
+    border: 2px solid red;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.resbox{
+    margin: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+.result{
+    border: 3px solid green;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+
